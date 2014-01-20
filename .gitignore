@@ -1,5 +1,8 @@
 *.py[cod]
 
+# Configuration
+managed_projects.txt
+
 # C extensions
 *.so
 
